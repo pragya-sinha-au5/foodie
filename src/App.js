@@ -8,6 +8,7 @@ import Alert from "./components/Alert";
 const App = () => {
     const [query , setQuery] = useState("");
     const [recipes, setRecipes] = useState([]);
+    
     const [alert, setAlert] = useState("");
     
     const APP_ID ="1f75b22e";

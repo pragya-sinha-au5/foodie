@@ -21,7 +21,9 @@ html {
 
 h1 {
   font-size: 5rem;
+
   letter-spacing: 0.1rem;
+  
   font-style:normal ;
   color: #044630;
   text-shadow: 0 0.2rem 3rem rgb(119, 115, 115);

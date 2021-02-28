@@ -5,6 +5,7 @@ const Alert = ({ alert }) => {
     <div className="alert">
       <h3>{alert}</h3>
     </div>
+    
   );
 };
 
